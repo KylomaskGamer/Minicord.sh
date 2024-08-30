@@ -1,3 +1,4 @@
+A Discord.py interpreter is in the works. Discord.js, Discordia, DiscordGo, Javacord and many more are not planned for interpreters. You may contribute so by creating a pull request.
 
 # Minicord.sh
 **Minicord.sh** is a miniature shell-style language designed for AI LLMs such as ChatGPT, Gemini, Claude, and others to facilitate the operation of an AI server manager without the risk of the AI going rogue and executing `rm -rf` on the hosting server, which would result in the complete erasure of the bot. While this outcome is not guaranteed, it is the intended goal.
